@@ -7,7 +7,7 @@ class Dog
     @actual_name = dog_name
   end 
   
-  def ahaha 
+  def name
     @actual_name
   end 
 end 
